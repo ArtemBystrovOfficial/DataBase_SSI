@@ -1,6 +1,0 @@
-1 
-2 sddsg gdsgdsgsd gdsgd
-3 sdggds sdgdsgdgs sdgdsg
-4 $Exit 
-5 $Exit
-6 $End   
